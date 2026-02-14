@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>resurssss.github.io</title>
+    <title>Всем привет!</title>
 </head>
 <body>
     <h1>resurssss.github.io</h1>
