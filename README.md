@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Всем привет!</title>
+   Всем привет!
 </head>
 <body>
     <h1>resurssss.github.io</h1>
